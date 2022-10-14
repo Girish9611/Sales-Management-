@@ -1,6 +1,6 @@
 # Sales-Management-
 In this repository I've used SQL queries to gather a few insights from a dataset that involves information on orders made, salesmen and customers. 
-To illustrate the use of SQL in daily life, I have created a narrative of a conversation between a manager and the intern. The conversation revolves around finding specific insights from the tables. I have added the conversation here with images of the results and the serial number of the queries and the serial number of queries are added in the .sql file as comments. 
+To illustrate the use of SQL in daily life, I have created a narrative of a conversation between a manager and the intern. The conversation revolves around finding specific insights from the tables. I have added the conversation here with images of the results and the serial number of the queries. The SQL commands and queries used in the project are added with comments in the 'Queries' file.  
 
 It was a normal morning at the sales office when Michael, the manager, had come to the intern, Ryan, they had just hired for help with a few issues. 
 
