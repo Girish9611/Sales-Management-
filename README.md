@@ -15,6 +15,8 @@ Image
 Ryan: I have finished updating the table. We can begin now. 
 
 ![Salesmen](https://user-images.githubusercontent.com/70691862/195772562-243c4c41-b8af-4f27-b73d-92af8781385c.png)
+![Customer](https://user-images.githubusercontent.com/70691862/195773285-aa371dc7-4f74-4baa-b4b5-98c1207ba359.png)
+![Orders](https://user-images.githubusercontent.com/70691862/195773392-d13de375-5474-44c8-bbfe-d2dc26652669.png)
 
 
 Michael: Excellent. Okay, I need to know the dates on which we sold our merchandise. 
