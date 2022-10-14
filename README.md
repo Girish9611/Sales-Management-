@@ -43,6 +43,8 @@ Query 3:
 
 ![Query3](https://user-images.githubusercontent.com/70691862/195775010-c9ccd235-074d-41f6-8037-8984124ef97c.png)
 
+Michael: Great! Now, we need a list of the purchase amount column from the smallest purchase to the largest with the salesman’s ID with it. 
+
 Ryan: Alright.
 
 Query 4: 
