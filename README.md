@@ -10,8 +10,6 @@ Ryan: Sure, let me just create the tables we will need for answering the questio
 
 Query for creating tables
 
-Image
-
 Ryan: I have finished updating the table. We can begin now. 
 
 ![Salesmen](https://user-images.githubusercontent.com/70691862/195772562-243c4c41-b8af-4f27-b73d-92af8781385c.png)
@@ -23,7 +21,7 @@ Michael: Excellent. Okay, I need to know the dates on which we sold our merchand
 
 Ryan: Okay
 
-Query 1:
+Query 1
 
 ![Query1](https://user-images.githubusercontent.com/70691862/195774951-0e445759-97f8-481c-8815-e7ce8d3759ce.png)
 
