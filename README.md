@@ -25,7 +25,7 @@ Ryan: Okay
 
 Query 1:
 
-Image 1
+![Query1](https://user-images.githubusercontent.com/70691862/195774951-0e445759-97f8-481c-8815-e7ce8d3759ce.png)
 
 Michael: Okay, next I need information on the salesmen who have sold above $1000 per order. 
 
@@ -33,7 +33,7 @@ Ryan: Got it.
 
 Query 2:  
 
-Image 2
+![Query2](https://user-images.githubusercontent.com/70691862/195774955-7d8770b3-23ff-48cb-92c7-0f97cd9ae426.png)
 
 Michael: Now I need information on a customer who had called regarding their order. I cannot recall her full name, but I think her name had the word ‘green’. 
 
@@ -41,13 +41,13 @@ Ryan: Oh, no problem.
 
 Query 3: 
 
-Image 3
+![Query3](https://user-images.githubusercontent.com/70691862/195775010-c9ccd235-074d-41f6-8037-8984124ef97c.png)
 
 Ryan: Alright.
 
 Query 4: 
 
-Image 4
+![Query4](https://user-images.githubusercontent.com/70691862/195775320-a619fde5-6e0b-40ae-b197-f80d93e2171b.png)
 
 Michael: Now I need the maximum and minimum purchase amount, the total number of purchases, the average and the sum of the purchase amount. 
 
@@ -55,7 +55,7 @@ Ryan: Okay.
 
 Query 5: 
 
-Image 5
+![Query5](https://user-images.githubusercontent.com/70691862/195775334-5784dd95-f284-4de5-b383-22c1a4919133.png)
 
 Michael: Great, now I need the information on the orders placed between April and October. 
 
@@ -63,7 +63,7 @@ Ryan: Got it.
 
 Query 6: 
 
-Image 6
+![Query6](https://user-images.githubusercontent.com/70691862/195775346-2e235f47-cdc4-4807-842a-e4229346231d.png)
 
 Michael: Great, now for the last one I need a list of all the orders carried out by the salesmen with their order numbers and the order date. 
 
@@ -71,7 +71,7 @@ Ryan: Okay
 
 Query 7: 
 
-Image 7
+![Query7](https://user-images.githubusercontent.com/70691862/195775363-e14e2f6d-6fac-475d-b8fa-14d4e377809e.png)
 
 Michael: Thanks a lot, Ryan!
 
